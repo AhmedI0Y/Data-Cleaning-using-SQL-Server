@@ -3,7 +3,7 @@ select * from layoffs
 --1- remove duplicates
 --2- standardize the data
 --3- null values 
---4- remove any unnecessary columns
+--4- remove any useless columns
 ----------------------------------------------
 
 
